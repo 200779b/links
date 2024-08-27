@@ -4,7 +4,7 @@
 		<date>2024-05-10 12:00:00Z</date>
 		<title>Test</title>
 		<text>Test</text>
-		<link>https://saltyzombies.com</link> <!-- put your link here -->
+		<link>https://www.saltyzombies.com</link> <!-- put your link here -->
 		<imagerelpath></imagerelpath>
 	</entry>
 </SaltyZombies>
