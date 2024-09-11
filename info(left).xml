@@ -7,7 +7,7 @@
 	    <!-- <title2>Test</title2> -->
 		<text>Salty</text> 
 		<link>https://SaltyZombies.com</link> 
-		<imagerelpath>https://i.imgur.com/xQM80hU.jpeg</imagerelpath>
+		<imagerelpath>@https://i.imgur.com/xQM80hU.jpeg</imagerelpath>
 	</entry>
 
   	<entry>
@@ -16,7 +16,7 @@
 	     <title2>Soon</title2> 
 		<text>Salty</text> 
 		<link>https://SaltyZombies.com</link> 
-		<imagerelpath>https://i.imgur.com/BtMhp2Z.png</imagerelpath>
+		<imagerelpath>@https://i.imgur.com/BtMhp2Z.png</imagerelpath>
 	</entry>
 
 </news>
