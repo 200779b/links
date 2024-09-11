@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<news>
+
+	<entry>
+		<date>2024-09-11 03:00:00Z</date>
+		<title>Soon</title>
+	    <!-- <title2>Title2</title2> -->
+		<text>Salty</text> 
+		<link>https://SaltyZombies.com</link> 
+		<imagerelpath>Saltyz.png</imagerelpath>
+	</entry>
+<!--
+  	<entry>
+		<date>2024-09-11 02:00:00Z</date>
+		<title>Soon</title>
+	     <title2>Title2</title2> 
+		<text>Salty</text> 
+		<link>https://SaltyZombies.com</link> 
+		<imagerelpath>SZSoon.png</imagerelpath>
+	</entry>
+-->
+</news>
