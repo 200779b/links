@@ -6,7 +6,7 @@
 	    <!-- <title2>Title2</title2> -->
 		<text>Donor traders are [FF0000]back[-]. Use /trader to access it. </text>
 		<link>https://R22.com</link> 
-		<imagerelpath>https://i.imgur.com/A5TkK1I.jpeg</imagerelpath>  <!-- jen -->
+		<imagerelpath>@https://i.imgur.com/A5TkK1I.jpeg</imagerelpath>  <!-- jen -->
 	</entry>
 	 <entry> 
 		<date>2024-07-28 12:00:00Z</date> 
@@ -14,6 +14,6 @@
 	     	<title2>Guidoqueen</title2> 
 		<text>Professional Amateur and darkness falls lover. Make sure to click here and follow her tiktok profile: @guidoqueen</text> 
 		<link>https://www.tiktok.com/@guidoqueen</link> 
-		<imagerelpath>jen.jpg</imagerelpath> 
+		<imagerelpath>@modfolder:jen.jpg</imagerelpath> 
 	 </entry> 
 </news>
